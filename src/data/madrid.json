@@ -1,0 +1,40 @@
+{
+  "city": {
+    "id": "madrid",
+    "name": "Madrid",
+    "country": "Spain",
+    "center": {"lat": 40.416775, "lng": -3.70379}
+  },
+  "places": [
+    {
+      "id": "m30-central-mosque",
+      "name": "Mezquita Central de Madrid (Islamic Cultural Center)",
+      "category": "mosque",
+      "address": "C. de Salvador de Madariaga, 4, 28027 Madrid",
+      "lat": 40.4380,
+      "lng": -3.6355,
+      "tags": ["main", "prayer"],
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Mezquita%20Central%20de%20Madrid"
+    },
+    {
+      "id": "m10-prayer-room-airport",
+      "name": "Prayer space (Madrid-Barajas Airport) — verify terminal",
+      "category": "prayer_space",
+      "address": "Madrid-Barajas Airport (MAD)",
+      "lat": 40.4983,
+      "lng": -3.5676,
+      "tags": ["airport"],
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Madrid%20Barajas%20Airport%20prayer%20room"
+    },
+    {
+      "id": "m20-halal-generic-1",
+      "name": "Halal restaurant (placeholder #1)",
+      "category": "halal_restaurant",
+      "address": "Madrid (curate exact spot)",
+      "lat": 40.4168,
+      "lng": -3.7038,
+      "tags": ["halal"],
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=halal%20restaurant%20madrid"
+    }
+  ]
+}
